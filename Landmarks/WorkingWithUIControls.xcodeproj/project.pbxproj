@@ -10,6 +10,7 @@
 		83ABCCE524B73AC20050A1BE /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83ABCCE324B718A40050A1BE /* ProfileHost.swift */; };
 		83ABCCE924B8267D0050A1BE /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83ABCCE624B74BBF0050A1BE /* ProfileSummary.swift */; };
 		83ABCCEB24B839A50050A1BE /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83ABCCEA24B839A50050A1BE /* HikeBadge.swift */; };
+		83FFAC4324B8539A0062C9D4 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83FFAC4224B8539A0062C9D4 /* ProfileEditor.swift */; };
 		B7310DD1229F6839001079B9 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7310DD0229F6839001079B9 /* HexagonParameters.swift */; };
 		B7310DD3229F6CA9001079B9 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7310DD2229F6CA9001079B9 /* Badge.swift */; };
 		B7394866229F194000C47603 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7394865229F194000C47603 /* AppDelegate.swift */; };
@@ -56,6 +57,7 @@
 		83ABCCE324B718A40050A1BE /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		83ABCCE624B74BBF0050A1BE /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		83ABCCEA24B839A50050A1BE /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		83FFAC4224B8539A0062C9D4 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		8C249B054B1162DF28CD504A /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = ../Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
 		9468E2AE3DC3F388E84A29BD /* LICENSE.txt */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		B7310DD0229F6839001079B9 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
@@ -135,6 +137,7 @@
 			isa = PBXGroup;
 			children = (
 				83ABCCE324B718A40050A1BE /* ProfileHost.swift */,
+				83FFAC4224B8539A0062C9D4 /* ProfileEditor.swift */,
 				83ABCCE624B74BBF0050A1BE /* ProfileSummary.swift */,
 				83ABCCEA24B839A50050A1BE /* HikeBadge.swift */,
 			);
@@ -352,6 +355,7 @@
 				83ABCCE924B8267D0050A1BE /* ProfileSummary.swift in Sources */,
 				B7D2AAC5229F4D7C0061E5F5 /* UserData.swift in Sources */,
 				B7394881229F28B900C47603 /* Landmark.swift in Sources */,
+				83FFAC4324B8539A0062C9D4 /* ProfileEditor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
